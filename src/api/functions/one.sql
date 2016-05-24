@@ -1,4 +1,4 @@
 --version 2 hotfix1123
 CREATE FUNCTION one() RETURNS integer AS $$
-SELECT 777777 AS result;
+SELECT 7777779999 AS result;
 $$ LANGUAGE SQL;
